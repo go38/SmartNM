@@ -1,26 +1,21 @@
 ============
-什麼是 eNMS ?
+第一關：綠洲
 ============
 
-eNMS 是一個開放程式碼的網頁應用系統 designed to help automate networks.
-While network automation traditionally requires scripting skills, eNMS provides a way to automate networks **graphically**.
-It encompasses the following aspects of network automation:
+建構虛擬實驗環境、確認功能正常運作
 
-* **Configuration management**: commit/rollback of a configuration via NAPALM.
-* **Netmiko scripting**: using netmiko to push a configuration, or display the result of a set of commands.
-* **Ansible support**: sending and managing ansible playbooks.
-* **Workflows**: all scripts can be organized in workflows (conditional graph of scripts executed in a specific order).
-* **Scheduling**: any script/workflow can be scheduled to run at a specific time, periodically or not.
+* **上網了嗎?
+* **柴米油鹽醬醋茶 功能檢驗
+* **安全防禦檢查
 
-Design philosophy
+備份設定檔&下載&繳交一份
 -----------------
 
-eNMS provides a way to automate networks **graphically**, in a few simple steps:
-    
-1. Creation of the network (e.g by importing a spreadsheet describing the network topology).
-#. Creation of the scripts and workflows.
-#. Visualization of the network on a world map, or via a force-based algorithm.
-#. Selection of the target devices graphically, and scheduling of the script/workflow.
+安全防禦檢查
+-----------------
+
+關閉不必要的功能，安全防範打造護城河
+
 
 Application stack
 -----------------
