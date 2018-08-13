@@ -6,18 +6,6 @@
 
    U1/index
    
-Objects 
-=======
-
-.. toctree::
-   :maxdepth: 2
-
    U2/index
-
-Views
-=====
-
-.. toctree::
-   :maxdepth: 2
 
    U3/index
