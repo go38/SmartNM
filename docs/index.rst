@@ -4,8 +4,7 @@
 .. toctree::
    :maxdepth: 2
 
-   base/general
-   base/installation
+   U1/index
    
 Objects 
 =======
@@ -13,7 +12,7 @@ Objects
 .. toctree::
    :maxdepth: 2
 
-   objects/index
+   U2/index
 
 Views
 =====
@@ -21,4 +20,4 @@ Views
 .. toctree::
    :maxdepth: 2
 
-   views/index
+   U3/index
